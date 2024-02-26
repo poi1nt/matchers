@@ -1,5 +1,5 @@
 {
-  "name": "matchers",
+  "name": "pure_functions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgeniiNoName/Matchers.git"
+    "url": "git+https://github.com/poi1nt/matchers.git"
   },
-  "author": "",
+  "author": "Aleksy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniiNoName/Matchers/issues"
+    "url": "https://github.com/poi1nt/matchers/issues"
   },
-  "homepage": "https://github.com/EvgeniiNoName/Matchers#readme",
+  "homepage": "https://github.com/poi1nt/matchers#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.23.9",
